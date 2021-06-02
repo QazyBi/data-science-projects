@@ -1,6 +1,9 @@
 # gitignore template for Jupyter Notebooks
 # website: http://jupyter.org/
 
+# secrets
+reddit-classifier/secrets.json
+
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
 
